@@ -10,8 +10,6 @@
         "express": "^4",
         "@sap/hana-client": "^2.9"
     },
-
-
     "scripts": {
         "start": "cds run"
     },
